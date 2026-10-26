@@ -8,6 +8,8 @@ Corresponding authors: Pierre-Pol Liebgott (pierre-pol.liebgott@ird.fr), Fabrice
 
 Raw sequencing reads: European Nucleotide Archive, BioProject PRJEB129037
 
+Archived version (Zenodo): https://doi.org/10.5281/zenodo.23666639 (all versions; v1.0.0: https://doi.org/10.5281/zenodo.23666640)
+
 ## Study overview
 
 Fifteen composite samples (water and sediment) were collected on 18 June 2021 at the Aïn Kanassira hydrothermal outflow system (Korbous, Cap Bon, north-eastern Tunisia): one terrestrial spring (T), two submarine venting zones (MA, MB) and a marine reference site. The V4 region of the 16S rRNA gene was amplified with primers 515F-Y/806R-B and sequenced on an Illumina MiSeq (2 × 250 bp). Amplicon sequence variants (ASVs) were inferred with DADA2 and classified against SILVA 138.2.
