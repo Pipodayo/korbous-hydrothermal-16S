@@ -1,0 +1,16 @@
+SampleID	FASTQ_prefix	Barcode	Zone	Site	Material	Depth_cm	Temperature_C	pH	Chloride_gL	Sodium_gL	Potassium_gL	Magnesium_gL	Calcium_gL	Sulfate_gL	Sulfide_mM
+MWC	MWC_GGTCAC-JM4Y5_L001	GGTCAC	Marine reference	Reference	Seawater	NA	17	8.16	21.95	11.8	0.34	1.2	0.46	2.84	ND
+MSed	MSed_ACCCCC-JM4Y5_L001	ACCCCC	Marine reference	Reference	Sediment	0-5	19	8.07	17.83	10.4	0.33	1.4	0.43	3.05	ND
+TWS	TWS_CGTCGC-JM4Y5_L001	CGTCGC	Hydrothermal water	T	Water	NA	38	7.07	7.14	3.79	0.1	0.38	0.48	1.04	2.23
+MAWS	MAWS_GGACTT-JM4Y5_L001	GGACTT	Hydrothermal water	MA	Water	NA	62	7.27	11.41	6.7	0.14	0.53	0.33	1.11	1.63
+MBWS	MBWS_ACTTTT-JM4Y5_L001	ACTTTT	Hydrothermal water	MB	Water	NA	39	7.12	9.85	5.41	0.17	0.52	0.38	1.03	1.86
+MASed	MASed_GGCCAA-JM4Y5_L001	GGCCAA	Submarine hydrothermal sediment	MA	Sediment	0-5	65	7.83	17.11	8.7	0.32	1.07	0.35	2.04	0.68
+MA10	MA10_ATGTCA-JM4Y5_L001	ATGTCA	Submarine hydrothermal sediment	MA	Sediment	10	69	7.74	14.16	7.68	0.22	0.72	0.45	1.32	0.98
+MA40	MA40_TGTGCC-JM4Y5_L001	TGTGCC	Submarine hydrothermal sediment	MA	Sediment	40	76	7.42	19.21	10.4	0.29	1.07	0.39	1.16	1.84
+MBSed	MBSed_GACAGT-JM4Y5_L001	GACAGT	Submarine hydrothermal sediment	MB	Sediment	0-5	43	7.87	18.2	9.63	0.28	1.05	0.37	2.28	0.43
+MB10	MB10_ACCAGG-JM4Y5_L001	ACCAGG	Submarine hydrothermal sediment	MB	Sediment	10	46	7.62	16.1	8.3	0.3	0.93	0.41	2.05	1.75
+MB40	MB40_GCAGCT-JM4Y5_L001	GCAGCT	Submarine hydrothermal sediment	MB	Sediment	40	51	7.32	19.03	10.19	0.3	0.79	0.38	1.19	1.89
+TSed1	TSed1_CCCGGC-JM4Y5_L001	CCCGGC	Terrestrial hydrothermal sediment	T	Sediment	0-5	41	7.73	8.96	4.83	0.1	0.38	0.43	1.85	2.83
+TSed2	TSed2_TCGAAC-JM4Y5_L001	TCGAAC	Terrestrial hydrothermal sediment	T	Sediment	0-5	34	7.68	8.34	4.38	0.27	0.4	0.41	1.31	3.09
+T10	T10_CTCGGT-JM4Y5_L001	CTCGGT	Terrestrial hydrothermal sediment	T	Sediment	10	43	7.85	8.51	4.78	0.26	0.33	0.48	1.11	4.09
+T40	T40_GTGTTT-JM4Y5_L001	GTGTTT	Terrestrial hydrothermal sediment	T	Sediment	40	43	7.65	9.52	5.12	0.29	0.22	0.43	1.15	4.87

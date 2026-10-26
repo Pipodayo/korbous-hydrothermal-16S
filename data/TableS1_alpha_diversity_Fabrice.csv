@@ -1,0 +1,16 @@
+"Sample","Compartment","Observed_ASVs","Shannon","Gini_Simpson","PD_obs","PD_ses","PD_ses_p"
+"MWC","Marine reference",455,3.126,0.87,35.57,-0.52,0.296
+"MSed","Marine reference",272,2.771,0.774,21.21,-4.06,0.001
+"TWS","Hydrothermal water",302,2.33,0.768,19.35,-9.08,0.001
+"MAWS","Hydrothermal water",250,2.531,0.855,17.26,-7.57,0.001
+"MBWS","Hydrothermal water",456,3.019,0.845,33.08,-3.38,0.001
+"MASed","Submarine hydrothermal sediment",467,3.885,0.919,26.83,-11.22,0.001
+"MA10","Submarine hydrothermal sediment",409,4.476,0.965,23.78,-11.21,0.001
+"MA40","Submarine hydrothermal sediment",421,4.288,0.953,23.52,-12.01,0.001
+"MBSed","Submarine hydrothermal sediment",455,3.402,0.904,31.82,-4.71,0.001
+"MB10","Submarine hydrothermal sediment",353,3.385,0.896,28.55,-1.38,0.086
+"MB40","Submarine hydrothermal sediment",495,3.527,0.895,34.16,-4.64,0.001
+"TSed1","Terrestrial hydrothermal sediment",959,5.046,0.98,64.41,1.9,0.973
+"TSed2","Terrestrial hydrothermal sediment",950,5.009,0.977,66.44,4.3,0.999
+"T10","Terrestrial hydrothermal sediment",1157,5.625,0.988,67.96,-3.02,0.001
+"T40","Terrestrial hydrothermal sediment",1245,5.795,0.991,71.76,-2.99,0.001

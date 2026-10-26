@@ -1,0 +1,16 @@
+Sample,Zone,Site,Temperature,pH,Calcium,Magnesium,Potassium,Sulfate,Sulfur,Chloride,Sodium
+MWC,Marine reference,Reference,17,8.16,0.46,1.20,0.34,2.84,0.001,21.95,11.80
+MSed,Marine reference,Reference,19,8.07,0.43,1.40,0.33,3.05,0.012,17.83,10.40
+TWS,Hydrothermal water,T,38,7.07,0.48,0.38,0.10,1.04,2.23,7.14,3.79
+MAWS,Hydrothermal water,MA,62,7.27,0.33,0.53,0.14,1.11,1.63,11.41,6.70
+MBWS,Hydrothermal water,MB,39,7.12,0.38,0.52,0.17,1.03,1.86,9.85,5.41
+MASed,Submarine hydrothermal sediment,MA,65,7.83,0.35,1.07,0.32,2.04,0.68,17.11,8.70
+MA10,Submarine hydrothermal sediment,MA,69,7.74,0.45,0.72,0.22,1.32,0.98,14.16,7.68
+MA40,Submarine hydrothermal sediment,MA,76,7.42,0.39,1.07,0.29,1.16,1.84,19.21,10.40
+MBSed,Submarine hydrothermal sediment,MB,43,7.87,0.37,1.05,0.28,2.28,0.43,18.20,9.63
+MB10,Submarine hydrothermal sediment,MB,46,7.62,0.41,0.93,0.30,2.05,1.75,16.10,8.30
+MB40,Submarine hydrothermal sediment,MB,51,7.32,0.38,0.79,0.30,1.19,1.89,19.03,10.19
+TSed1,Terrestrial hydrothermal sediment,T,41,7.73,0.43,0.38,0.10,1.85,2.83,8.96,4.83
+TSed2,Terrestrial hydrothermal sediment,T,34,7.68,0.41,0.40,0.27,1.31,3.09,8.34,4.38
+T10,Terrestrial hydrothermal sediment,T,43,7.85,0.48,0.33,0.26,1.11,4.09,8.51,4.78
+T40,Terrestrial hydrothermal sediment,T,43,7.65,0.43,0.22,0.29,1.15,4.87,9.52,5.12

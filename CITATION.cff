@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite the associated article."
+title: "Korbous (Aïn Kanassira) coastal hydrothermal system: 16S rRNA gene amplicon data, metadata and analysis scripts"
+type: software
+authors:
+  - family-names: "Gannoun"
+    given-names: "Hana"
+  - family-names: "Ben Gaida"
+    given-names: "Lamia"
+  - family-names: "Chebbi"
+    given-names: "Halima"
+  - family-names: "Dhifalli"
+    given-names: "Khouloud"
+  - family-names: "Fersi"
+    given-names: "Cheima"
+  - family-names: "Valette"
+    given-names: "Corinne"
+  - family-names: "Casalot"
+    given-names: "Laurie"
+  - family-names: "Garel"
+    given-names: "Marc"
+  - family-names: "Pillot"
+    given-names: "Guillaume"
+  - family-names: "Armougom"
+    given-names: "Fabrice"
+  - family-names: "Liebgott"
+    given-names: "Pierre-Pol"
+version: 1.0.0
+license: MIT
+keywords:
+  - 16S rRNA gene
+  - coastal hydrothermal system
+  - Korbous
+  - Tunisia
+  - seawater input
